@@ -31,6 +31,59 @@ Install both the WiiMart WAD and the patched IOS WAD (for Wii). Install by going
 
 So far, getting the shop on a blank NAND has been unsuccesful.
 
+# Contributors  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ocarinaoftime">
+        <img src="https://github.com/Ocarinaoftime.png" width="100px" style="border-radius: 50%;" alt="Ocarinaoftime"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ocarinaoftime"><strong>Ocarinaoftime</strong></a>
+      <br />
+      <em>Owner</em>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LLenost">
+        <img src="https://github.com/LLenost.png" width="100px" style="border-radius: 50%;" alt="LLenost"/>
+      </a>
+      <br />
+      <a href="https://github.com/LLenost"><strong>LLenost</strong></a>
+      <br />
+      <em>Developer</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Titikika123">
+        <img src="https://github.com/Titikika123.png" width="100px" style="border-radius: 50%;" alt="Titikika123"/>
+      </a>
+      <br />
+      <a href="https://github.com/Titikika123"><strong>Titikika123</strong></a>
+      <br />
+      <em>Dutch Translations</em>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MrRM05">
+        <img src="https://github.com/MrRM05.png" width="100px" style="border-radius: 50%;" alt="MrRM05"/>
+      </a>
+      <br />
+      <a href="https://github.com/MrRM05"><strong>MrRM05</strong></a>
+      <br />
+      <em>Spanish Translations</em>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RandomYaps">
+        <img src="https://github.com/RandomYaps.png" width="100px" style="border-radius: 50%;" alt="RandomYaps"/>
+      </a>
+      <br />
+      <a href="https://github.com/RandomYaps"><strong>RandomYaps</strong></a>
+      <br />
+      <em>Spanish Translations</em>
+    </td>
+  </tr>
+</table>
 
 
 
