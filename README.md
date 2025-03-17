@@ -57,7 +57,7 @@ So far, getting the shop on a blank NAND has been unsuccesful.
   <tr>
     <td align="center">
       <a href="https://github.com/Tititika123">
-        <img src="https://github.com/Tititika123" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="Tikitaka123"/>
+        <img src="https://github.com/Tititika123.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="Tikitaka123"/>
       </a>
       <br />
       <a href="https://github.com/Tititika123"><strong>Tititika123</strong></a>
