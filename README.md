@@ -37,7 +37,7 @@ So far, getting the shop on a blank NAND has been unsuccesful.
   <tr>
     <td align="center">
       <a href="https://github.com/Ocarinaoftime">
-        <img src="https://github.com/Ocarinaoftime.png" width="100px" style="border-radius: 50%;" alt="Ocarinaoftime"/>
+        <img src="https://github.com/Ocarinaoftime.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="Ocarinaoftime"/>
       </a>
       <br />
       <a href="https://github.com/Ocarinaoftime"><strong>Ocarinaoftime</strong></a>
@@ -46,18 +46,18 @@ So far, getting the shop on a blank NAND has been unsuccesful.
     </td>
     <td align="center">
       <a href="https://github.com/LLenost">
-        <img src="https://github.com/LLenost.png" width="100px" style="border-radius: 50%;" alt="LLenost"/>
+        <img src="https://github.com/LNLenost.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="LLenost"/>
       </a>
       <br />
-      <a href="https://github.com/LLenost"><strong>LLenost</strong></a>
+      <a href="https://github.com/LNLenost"><strong>LNLenost</strong></a>
       <br />
       <em>Developer</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Titikika123">
-        <img src="https://github.com/Titikika123.png" width="100px" style="border-radius: 50%;" alt="Titikika123"/>
+      <a href="https://github.com/TikiTaka123">
+        <img src="https://github.com/TikiTaka123.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="Tikitaka123"/>
       </a>
       <br />
       <a href="https://github.com/Titikika123"><strong>Titikika123</strong></a>
@@ -66,7 +66,7 @@ So far, getting the shop on a blank NAND has been unsuccesful.
     </td>
     <td align="center">
       <a href="https://github.com/MrRM05">
-        <img src="https://github.com/MrRM05.png" width="100px" style="border-radius: 50%;" alt="MrRM05"/>
+        <img src="https://github.com/MrRM05.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="MrRM05"/>
       </a>
       <br />
       <a href="https://github.com/MrRM05"><strong>MrRM05</strong></a>
@@ -75,7 +75,7 @@ So far, getting the shop on a blank NAND has been unsuccesful.
     </td>
     <td align="center">
       <a href="https://github.com/RandomYaps">
-        <img src="https://github.com/RandomYaps.png" width="100px" style="border-radius: 50%;" alt="RandomYaps"/>
+        <img src="https://github.com/RandomYaps.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="RandomYaps"/>
       </a>
       <br />
       <a href="https://github.com/RandomYaps"><strong>RandomYaps</strong></a>
@@ -84,7 +84,6 @@ So far, getting the shop on a blank NAND has been unsuccesful.
     </td>
   </tr>
 </table>
-
 
 
 (Pages managed by [LNLenost](https://github.com/LNLenost))
