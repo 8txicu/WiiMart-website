@@ -56,11 +56,11 @@ So far, getting the shop on a blank NAND has been unsuccesful.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/TikiTaka123">
-        <img src="https://github.com/TikiTaka123.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="Tikitaka123"/>
+      <a href="https://github.com/Tititika123">
+        <img src="https://github.com/Tititika123" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="Tikitaka123"/>
       </a>
       <br />
-      <a href="https://github.com/Titikika123"><strong>Titikika123</strong></a>
+      <a href="https://github.com/Tititika123"><strong>Tititika123</strong></a>
       <br />
       <em>Dutch Translations</em>
     </td>
@@ -84,6 +84,7 @@ So far, getting the shop on a blank NAND has been unsuccesful.
     </td>
   </tr>
 </table>
+
 
 
 (Pages managed by [LNLenost](https://github.com/LNLenost))
