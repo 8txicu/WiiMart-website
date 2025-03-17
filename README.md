@@ -45,20 +45,20 @@ Downloading WiiMart varies on what platform you are on.
       <em>Owner</em>
     </td>
     <td align="center">
-      <a href="https://github.com/LLenost">
-        <img src="https://github.com/LLenost.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="LLenost"/>
+      <a href="https://github.com/LNLenost">
+        <img src="https://github.com/LNLenost.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="LNLenost"/>
       </a>
       <br />
-      <a href="https://github.com/LLenost"><strong>LLenost</strong></a>
+      <a href="https://github.com/LNLenost"><strong>LNLenost</strong></a>
       <br />
       <em>Developer</em>
     </td>
     <td align="center">
-      <a href="https://github.com/idkwhereisthisname">
-        <img src="https://github.com/idkwhereisthisname.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="idkwhereisthisname"/>
+      <a href="https://github.com/idkwhere1sthisname">
+        <img src="https://github.com/idkwhere1sthisname.png" width="100px" style="border-radius: 50%; display: block; margin: auto;" alt="idkwhere1sthisname"/>
       </a>
       <br />
-      <a href="https://github.com/idkwhereisthisname"><strong>idkwhereisthisname</strong></a>
+      <a href="https://github.com/idkwhere1sthisname"><strong>idkwhere1sthisname</strong></a>
       <br />
       <em>Developer</em>
     </td>
